@@ -6,3 +6,4 @@
 * Photography
 #You should add your favorite color as well
 * Red 
+* Zona 1 Ciudad de Guatemala
